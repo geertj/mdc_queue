@@ -1,0 +1,11 @@
+# Lambda (number of commits per time unit)
+l: 4
+# Mu (througput of one server per time unit).
+u: 7.5
+# c (number of servers
+c: 1
+# Max wait time in time units (e.g. 0.0833 = 1/12 = 5 minutes)
+# Used for reporting unacceptable wait times.
+twait: 0.0833
+# Number of events to simulate
+nevents: 1000000

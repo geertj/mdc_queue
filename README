@@ -1,0 +1,7 @@
+MDC queue simulation.
+
+The simulator requires Python 3 and the "yaml" module.
+
+Usage: mdc_queue.py <inputfile>
+
+See the file "input.yaml" for an example input file.
